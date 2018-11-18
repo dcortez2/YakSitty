@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371428239807",
+    "firebase_url": "https://yaksitty.firebaseio.com",
+    "project_id": "yaksitty",
+    "storage_bucket": "yaksitty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371428239807:android:03cb125194bf9531",
+        "android_client_info": {
+          "package_name": "com.example.dobien.yaksitty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371428239807-54oq6rgrtllrop5n0sn1fnbeadbomr26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dobien.yaksitty",
+            "certificate_hash": "4a176e56f713c4df032d8d14f28e32e0255f0c84"
+          }
+        },
+        {
+          "client_id": "371428239807-f5o47bvq5hulu5jnu8bi6of3q1fducgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRsYzBT09w6lfciqjghx7at5_M2uRUEOg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371428239807-f5o47bvq5hulu5jnu8bi6of3q1fducgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
